@@ -1,4 +1,10 @@
-## Hi there 👋
+## EOSC Future CERN
+
+EOSC Future is an EU-funded H2020 project that is implementing the European Open Science Cloud (EOSC). EOSC will give European researchers access to a wide web of FAIR data and related services.
+
+Our team at CERN is developing and contribution to the infrastructure code base of EOSC.
+
+More information can be found on our [website](https://eoscfuture.eu).
 
 <!--
 
