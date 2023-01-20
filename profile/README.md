@@ -1,4 +1,4 @@
-## EOSC Future CERN
+## CERN Virtual Research Environment
 
 EOSC Future is an EU-funded H2020 project that is implementing the European Open Science Cloud (EOSC). EOSC will give European researchers access to a wide web of FAIR data and related services.
 
