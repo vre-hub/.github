@@ -1,18 +1,19 @@
 ## Virtual Research Environment
 
-EOSC Future is an EU-funded H2020 project that is implementing the European Open Science Cloud (EOSC). EOSC will give European researchers access to a wide web of FAIR data and related services.
+The Virtual Research Environment is an analysis platform developed at CERN serving the needs of scientific communities involved in European Projects. Its scope is to facilitate the development of end-to-end physics workflows, providing researchers with access to an infrastructure and to the digital content necessary to produce and preserve a scientific result in compliance with FAIR principles. The platform’s development is aimed at demonstrating how sciences spanning from High Energy Physics to Astrophysics could benefit from the usage of common technologies, initially born to satisfy CERN’s exabyte-scale data management needs.
 
-Our team at CERN is developing and contribution to the infrastructure code base of [EOSC](https://eoscfuture.eu).
+```mermaid
+---
+title: VRE Hub Structure
+---
+graph TD;
+    id1([vre-hub])-->id2(vre<br>Infrastructure Code);
+    id1([vre-hub])-->id3(environments<br>Notebook Profiles);
+    id1([vre-hub])-->id4(science-projects<br>Example Science Projects);
+    id1([vre-hub])-->id5(vre-hub.github.io<br>Documentation);  
+```
 
-More information can be found on our [website](https://escape2020.pages.in2p3.fr/virtual-environment/home/).
+The platform development effort is part of the [EOSC Future project](https://eoscfuture.eu), an EU-funded H2020 project implementing the European Open Science Cloud (EOSC). EOSC will give European researchers access to a vast web of FAIR data and related services.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 Find the VRE documentation and overview [here](https://vre-hub.github.io/).  
+🌈 Any contribution is welcome! Feel free to create issues and start discussions! Find our wiki [here](https://github.com/vre-hub/vre/wiki).  
