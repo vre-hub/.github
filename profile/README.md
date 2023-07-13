@@ -10,7 +10,9 @@ graph TD;
     id1([vre-hub])-->id2(vre<br>Infrastructure Code);
     id1([vre-hub])-->id3(environments<br>Notebook Profiles);
     id1([vre-hub])-->id4(science-projects<br>Example Science Projects);
-    id1([vre-hub])-->id5(vre-hub.github.io<br>Documentation);  
+    id1([vre-hub])-->id5(vre-hub.github.io<br>Documentation);
+    id1([vre-hub])-->id6(vre-dev<br>Dev Cluster);
+    id1([vre-hub])-->id7(status<br>Service Status Page);    
 ```
 
 👩‍💻 Find the VRE documentation and overview [here](https://vre-hub.github.io/).  
