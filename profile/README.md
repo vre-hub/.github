@@ -18,4 +18,4 @@ graph TD;
 👩‍💻 Find the VRE documentation and overview [here](https://vre-hub.github.io/).  
 🌈 Any contribution is welcome! Feel free to create issues and start discussions! Find our wiki [here](https://github.com/vre-hub/vre/wiki).  
 
-*The platform development effort is part of the [ESCAPE](https://projectescape.eu/), [EOSC Future](https://eoscfuture.eu), and [OSCARS](https://oscars-project.eu/) EU-funded projects implementing the European Open Science Cloud (EOSC).*
+*The platform development effort is part of the [ESCAPE](https://projectescape.eu/), [EOSC Future](https://eoscfuture.eu), and [OSCARS](https://oscars-project.eu/) EU-funded projects implementing the European Open Science Cloud ([EOSC](https://eosc.eu/)).*
